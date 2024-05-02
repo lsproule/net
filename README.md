@@ -59,6 +59,7 @@ signal travels along the waveguide by multiple internal reflections?
 A: Cladding
 
 Q: A company calls a consultant to replace STP cabling and is looking at the varying types. Which of the following is the most challenging to install?
+
 A: Legacy shielded twisted pair (STP) cable could be complex to install, as it requires bonding each element to ground manually. Using screened or shielded cable means the consultant must also use screened/shielded connectors. 
 
 Q: A network cabling engineer reviews different fiber optic connector form factors. Which of the following features a push-pull mechanism that is commonly used with multimode fiber?
