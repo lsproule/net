@@ -39,6 +39,7 @@ Q: A communications engineer notices that every time it rains the signal becomes
 A: Data-link (responsible for transferring data between nodes on the same logical segment)
 
 Q: A security engineer configures software-based port security on a hardware firewall. Which OSI model layer identifies the application ports to configure?
+
 A: Network Layer (Layer 3) the routing part of the router (such as a SOHO router), makes forwarding decisions between the local private network and the public Internet.
 
 # Ethernet cabling
@@ -49,13 +50,16 @@ A:
 2. GG45
 
 Q: A network technician needs a cost-effective solution that can multiplex up to 16 wavelengths on an SFP/SFP+ interface. Which multiplexing technique should the network technician use?
+
 A: Coarse Wavelength Division Multiplexing (CWDM) supports up to 16 wavelengths and typically deploys four or eight bidirectional channels over a single fiber strand.
 
 Q: A network technician is laying out coax cables and needs to order more termination connectors. What should the technician order?
+
 A: F-type
 
 Q: A technician who lays cabling is researching how the manufacturer constructed fiber optic cabling. Which of the following reflects signals back into the waveguide as efficiently as possible so that the light
 signal travels along the waveguide by multiple internal reflections?
+
 A: Cladding
 
 Q: A company calls a consultant to replace STP cabling and is looking at the varying types. Which of the following is the most challenging to install?
@@ -69,7 +73,9 @@ It features a push-pull coupling mechanism, which allows for easy insertion and 
 The SC connector is available in both single-mode and multimode versions, making it versatile for various fiber optic applications.
 
 Q: A network administrator is setting up cabling between buildings and needs to transmit the maximum distance possible. Which type of cabling would be most suitable?
+
 A: Single Mode (SMF) fiber optic cable supports higher bandwidth over longer links than copper cable. Single mode allows for longer distance transmission than MultiMode.
 
 Q: A new network engineer is deploying an architecture using Carrier Sense Multiple Access with Collision Detection (CSMA/CD). How does the CSMA/CD protocol work?
+
 A: The following steps are the correct order of a CSMA/CD protocol: Data, check network, transmit data, collision, wait, retransmit.
