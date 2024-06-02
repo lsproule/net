@@ -79,3 +79,13 @@ A: Single Mode (SMF) fiber optic cable supports higher bandwidth over longer lin
 Q: A new network engineer is deploying an architecture using Carrier Sense Multiple Access with Collision Detection (CSMA/CD). How does the CSMA/CD protocol work?
 
 A: The following steps are the correct order of a CSMA/CD protocol: Data, check network, transmit data, collision, wait, retransmit.
+
+Q: A project manager is ordering equipment to set up fiber cabling in a new building. Which of the following tools will allow a more permanent join with lower insertion loss?
+
+A: Fusion splicer achieves a more permanent join with lower insertion loss (>=0.1 dB). The fusion splicing machine performs a precise alignment between the two strands and then permanently joins them together.
+
+Q: A project manager is preparing for an upcoming work assignment and is comparing available cable types for use within the project. What is NOT a benefit of using fiber optic cabling?
+
+A: Cost
+
+
